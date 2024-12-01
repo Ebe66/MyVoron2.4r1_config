@@ -45,7 +45,7 @@ enable_object_processing = True
 [timelapse]
 
 [spoolman]
-server = http://192.168.0.71:7912
+server = http://192.168.0.72:7912
 sync_rate = 5
 
 [update_manager]
